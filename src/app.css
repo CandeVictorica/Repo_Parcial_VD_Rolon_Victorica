@@ -19,6 +19,7 @@
         height: 80px;
         display: flex;
         flex-direction: row;
+
     }
     
     footer {
@@ -34,7 +35,9 @@
         text-decoration: underline;
     }
     .link{
-        margin-left: 40px;
+        margin-left: 30%;
+        align-items: flex-end;
+        margin-bottom: 10px;
     }
     
     #foot {
